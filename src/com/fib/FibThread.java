@@ -16,7 +16,7 @@ public class FibThread extends Thread {
 	}
 	
 	public BigDecimal getFibRec(int n) {
-
+		//all of this is fucked up
 //		if (n <= 0)
 //			return new BigDecimal("0.0");
 //		if (n == 1)
